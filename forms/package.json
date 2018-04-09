@@ -1,0 +1,19 @@
+{
+  "name": "forms",
+  "version": "1.0.0",
+  "description": "form data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form",
+    "forms"
+  ],
+  "author": "Ant",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}
